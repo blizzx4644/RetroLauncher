@@ -28,7 +28,7 @@
 
 ---
 
-## 🖼️ Screenshots & Demos
+## 🖼️ Screenshots
 
 
 - Library view
