@@ -15,7 +15,7 @@
 
 ---
 
-Please report any bugs.
+### *Please report any bugs.*
 
 ## ✨ Highlights
 
