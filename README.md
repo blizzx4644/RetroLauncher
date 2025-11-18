@@ -15,6 +15,8 @@
 
 ---
 
+Please report any bugs.
+
 ## ✨ Highlights
 
 - 🎮 Library management with covers, favorites, and play stats
